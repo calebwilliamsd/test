@@ -3,7 +3,7 @@
 int main (void){
 
 printf("%s","hello world");
-printf("%s","new");
+printf("%s","new from ghub");
 return 0;
 }
 
