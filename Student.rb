@@ -41,7 +41,7 @@ student = Student.new("Caleb",4.0,true)
 puts "is he alive ? "+ (if student.isalive? then "yes" else "no" end)
 student.aliven
 puts "is he alive ? "+ (if student.isalive? then "yes" else "no" end)
-
+puts "hello this si the run"
 puts student.name + " is a student with a gpa of " + student.gpa.to_s
 b = 'hi'
 b<<' hello again'
